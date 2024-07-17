@@ -1,4 +1,4 @@
-module github.com/fbac/node
+module github.com/fbac/zeta-node
 
 go 1.22
 
